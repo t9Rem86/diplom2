@@ -3,15 +3,14 @@
     "finmodel": {
       "type": "stdio",
       "command": "python",
-      "args": ["-m", "scripts.mcp_server"],
-      "cwd": "C:\\Users\\UpGrade\\Desktop\\diplom2"
+      "args": ["-m", "finmodel.mcp_server"]
     },
     "excel": {
       "type": "stdio",
       "command": "uvx",
       "args": ["excel-mcp-server", "stdio"],
       "env": {
-        "EXCEL_FILES_PATH": "C:\\Users\\UpGrade\\Desktop\\diplom2"
+        "EXCEL_FILES_PATH": "."
       }
     }
   }
