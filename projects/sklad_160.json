@@ -1,0 +1,20 @@
+{
+  "name": "Sklad_160",
+  "description": "Складской объект, целевой срок окупаемости ~160 мес.",
+  "start_date": "2026-07",
+  "cost_with_vat": 150000000,
+  "area_sqm": 3000,
+  "equity_share": 0.40,
+  "debt_share": 0.60,
+  "rent_rate_ex_vat": 792,
+  "rent_indexation": 0.08,
+  "key_rate": 0.14,
+  "loan_rate": 0.15,
+  "vat_rate": 0.20,
+  "horizon_months": 200,
+  "construction_months": 10,
+  "income_tax": 0.20,
+  "property_tax": 0.022,
+  "opex_pct": 0.15,
+  "useful_life_years": 40
+}

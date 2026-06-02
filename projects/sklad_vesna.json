@@ -1,0 +1,18 @@
+{
+  "name": "Склад Весна",
+  "cost_with_vat": 48800000,
+  "area_sqm": 1000,
+  "equity_share": 0.2,
+  "rent_rate_ex_vat": 976,
+  "rent_indexation": 0.05,
+  "key_rate": 0.145,
+  "loan_rate": 0.2,
+  "vat_rate": 0.22,
+  "horizon_months": 120,
+  "construction_months": 6,
+  "income_tax": 0.25,
+  "property_tax": 0.022,
+  "opex_pct": 0.1,
+  "useful_life_years": 20,
+  "start_date": "01.07.2026"
+}

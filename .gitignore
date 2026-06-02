@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Excel временные файлы
+~$*.xlsx
+~$*.xls
+
+# Локальные настройки Claude
+.claude/settings.local.json
+
+# Системное
+.DS_Store
+Thumbs.db

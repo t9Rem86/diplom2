@@ -1,0 +1,19 @@
+{
+  "name": "Sklad_Magnitogorsk",
+  "display_name": "Склад Магнитогорск",
+  "start_date": "2026-07",
+  "area_sqm": 1000,
+  "cost_with_vat": 10000000,
+  "equity_share": 0.50,
+  "key_rate": 0.145,
+  "loan_rate": 0.20,
+  "rent_rate_ex_vat": 983.61,
+  "rent_indexation": 0.10,
+  "construction_months": 6,
+  "horizon_months": 100,
+  "vat_rate": 0.22,
+  "income_tax": 0.20,
+  "property_tax": 0.022,
+  "opex_pct": 0.15,
+  "useful_life_years": 40
+}

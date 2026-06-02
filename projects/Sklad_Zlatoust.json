@@ -1,0 +1,19 @@
+{
+  "name": "Sklad_Zlatoust",
+  "display_name": "Склад Златоуст",
+  "start_date": "2026-06",
+  "area_sqm": 2000,
+  "cost_with_vat": 100000000,
+  "vat_rate": 0.22,
+  "debt_share": 0.65,
+  "rent_rate_ex_vat": 1200,
+  "key_rate": 0.145,
+  "loan_rate": 0.20,
+  "rent_indexation": 0.08,
+  "construction_months": 12,
+  "horizon_months": 180,
+  "income_tax": 0.20,
+  "property_tax": 0.022,
+  "opex_pct": 0.15,
+  "useful_life_years": 40
+}

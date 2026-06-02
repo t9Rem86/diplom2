@@ -1,0 +1,20 @@
+{
+  "name": "Склад_Челябинск",
+  "description": "Складской объект, г. Челябинск",
+  "cost_with_vat": 200000000,
+  "area_sqm": 5000,
+  "equity_share": 0.30,
+  "debt_share": 0.70,
+  "rent_rate_ex_vat": 1100,
+  "rent_indexation": 0.07,
+  "key_rate": 0.145,
+  "loan_rate": 0.20,
+  "vat_rate": 0.20,
+  "horizon_months": 120,
+  "construction_months": 12,
+  "income_tax": 0.20,
+  "property_tax": 0.022,
+  "opex_pct": 0.10,
+  "useful_life_years": 20,
+  "start_date": "01.07.2026"
+}
