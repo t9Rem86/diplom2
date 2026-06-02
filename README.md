@@ -1,8 +1,6 @@
 <div align="center">
 
-# 🏗️ FinModel Agent
-
-**ИИ-агент для финансового моделирования складской недвижимости**
+# 🏗️ ИИ-агент для финансового моделирования и прогнозирования денежных потоков
 
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![Claude Code](https://img.shields.io/badge/Claude_Code-MCP-D4A017?style=flat-square&logo=anthropic&logoColor=white)](https://claude.ai/code)
